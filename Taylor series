@@ -1,0 +1,3 @@
+original form of Taylor series
+
+f(x)= f(a) + \frac{f'(a)}{1!}(x-a) + \frac{f''(a)}{2!}(x-a)^2+ \cdots\\\\
